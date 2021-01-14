@@ -108,14 +108,10 @@ export default function Home(): JSX.Element {
 			<StyledInfoDiv>
 				<StyledH>Developer Discords</StyledH>
 				<StyledCredit>
-					Star on{" "}
-					<Link href="https://github.com/NikSchaefer/dev-discords">
-						<StyledLink>Github</StyledLink>
-					</Link>{" "}
+					Data from{" "}
+					<StyledLink href="https://github.com/ljosberinn/">Gerrit Alex</StyledLink>
 					⋅ Made by{" "}
-					<Link href="https://nikschaefer.tech/">
-						<StyledLink>NikSchaefer</StyledLink>
-					</Link>
+					<StyledLink href="https://nikschaefer.tech/">NikSchaefer</StyledLink>
 				</StyledCredit>
 				<StyledIconDiv>
 					<Icon name="Arrow" />
@@ -133,7 +129,7 @@ export default function Home(): JSX.Element {
 			</StyledInfoDiv>
 			<StyledDiv>
 				{searchArr.map((temp) => (
-					<Link href={temp.link} key={temp.name}>
+					<a href={temp.link} key={temp.name}>
 						<StyledComponent className="servers">
 							<h3>
 								<Icon name="Check" /> {temp.name}
@@ -141,7 +137,7 @@ export default function Home(): JSX.Element {
 							<p>{temp.description}</p>
 							<StyledImage alt="discord" src="/discord.svg" />
 						</StyledComponent>
-					</Link>
+					</a>
 				))}
 			</StyledDiv>
 		</main>

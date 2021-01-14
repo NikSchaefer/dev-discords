@@ -12,10 +12,11 @@ Icons are from [Primer](https://primer.style/octicons/)
 
 ## Stack
 
-Built with 
-- NextJS
-- React
-- Typescript
-- Styled Components
-- Vercel
-- [Eslint-Config-Galex](https://github.com/ljosberinn/eslint-config-galex)
+Built with
+
+-   NextJS
+-   React
+-   Typescript
+-   Styled Components
+-   Vercel
+-   [Eslint-Config-Galex](https://github.com/ljosberinn/eslint-config-galex)
