@@ -1,5 +1,3 @@
-import { JsxEmit } from "typescript";
-
 // eslint-disable-next-line import/no-default-export
 export default function Check(): JSX.Element {
 	return (
