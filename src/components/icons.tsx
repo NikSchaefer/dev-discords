@@ -1,4 +1,4 @@
-import { IconGithub, IconFolder } from "./icons/in";
+import { IconGithub, IconFolder, IconCheck, IconArrow } from "./icons/in";
 
 // eslint-disable-next-line import/no-default-export
 export default function Icon(data: { name: string }): JSX.Element {
@@ -7,6 +7,10 @@ export default function Icon(data: { name: string }): JSX.Element {
 			return <IconGithub />;
 		case "Folder":
 			return <IconFolder />;
+		case "Check":
+			return <IconCheck />;
+		case "Arrow":
+			return <IconArrow />;
 		default:
 			return <IconGithub />;
 	}
