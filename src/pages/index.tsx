@@ -109,7 +109,7 @@ export default function Home(): JSX.Element {
 				<StyledH>Developer Discords</StyledH>
 				<StyledCredit>
 					Star on{" "}
-					<Link href="https://github.com/NikSchaefer">
+					<Link href="https://github.com/NikSchaefer/dev-discords">
 						<StyledLink>Github</StyledLink>
 					</Link>{" "}
 					⋅ Made by{" "}
