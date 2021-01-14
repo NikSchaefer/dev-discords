@@ -88,16 +88,14 @@ export default function Home(): JSX.Element {
 	const [search, setSearch] = useState("");
 	const [searchArr, setSearchArr] = useState(jsonData);
 
-	function filter(search: string): boolean
-	{
-		if (search.length === 0 || search === "" || search === " ")
-		{
-			setSearchArr(jsonData)
+	function filter(search: string): boolean {
+		if (search.length === 0 || search === "" || search === " ") {
+			setSearchArr(jsonData);
 			return false;
 		}
 		const out: devData[] = [];
 		for (const x of jsonData) {
-			if (x.name.startsWith(search)) {
+			if (x.name.toLowerCase().startsWith(search.toLowerCase())) {
 				out.push(x);
 			}
 		}
@@ -129,7 +127,7 @@ export default function Home(): JSX.Element {
 					placeholder={`Search ${jsonData.length} Discord Servers`}
 					onChange={(e) => {
 						setSearch(e.target.value);
-						filter(search);
+						filter(e.target.value);
 					}}
 				/>
 			</StyledInfoDiv>
