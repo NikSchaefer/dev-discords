@@ -1,2 +1,3 @@
 # dev-discords
- Collection of Developer Discord Servers
+
+Collection of Developer Discord Servers

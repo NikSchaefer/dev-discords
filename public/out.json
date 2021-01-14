@@ -1,0 +1,342 @@
+
+	{
+		"name": "Clojurians",
+		"link": "https://discord.gg/8UU7XM5",
+		"description": "Community for Clojurescript"
+	},
+	{
+		"name": "CodeSupport",
+		"link": "https://discord.gg/XQ9C3sY",
+		"description": "A community dedicated to giving guidance about programming"
+	},
+	{
+		"name": "The Coding Den",
+		"link": "https://discord.gg/code",
+		"description": "A programming server for everyone who is interested in coding"
+	},
+	{
+		"name": "C# Inn",
+		"link": "https://discord.gg/rCMKcUU",
+		"description": "Help, study, learn and coop! All while having fun and making friends at C# Inn"
+	},
+	{
+		"name": "Data & Dev Ops",
+		"link": "https://discord.gg/JUj5FNQ",
+		"description": "For everything related to databases & devops with PostgreSQL/Ansible/Bash/etc."
+	},
+	{
+		"name": "Devcord",
+		"link": "https://discord.gg/devcord",
+		"description": "Community that brings together web developers of all experience levels"
+	},
+	{
+		"name": "Digital Hackerspace",
+		"link": "https://discord.gg/WZyyYtA",
+		"description": "Focused on hacking, making software, hardware and a mix of both"
+	},
+	{
+		"name": "Functional Programming",
+		"link": "https://discord.gg/K6XHBSh",
+		"description": ""
+	},
+	{
+		"name": "Garbage Collectors",
+		"link": "https://discord.gg/3ahHtGt",
+		"description": "Welcome to Garbage Collectors (GC). We try to focus on \"long-term\" mentoring/guidance."
+	},
+	{
+		"name": "houseparty.js",
+		"link": "https://discord.gg/zfSTAsm",
+		"description": "General and for discussion around broad topics"
+	},
+	{
+		"name": "Lisp",
+		"link": "https://discord.gg/hhk46CE",
+		"description": "Community for the Lisp language family"
+	},
+	{
+		"name": "Low-Level Programming",
+		"link": "https://discord.gg/5ssDFZS",
+		"description": "For low-level/systems programming with C/C++/Rust/Assembly/etc."
+	},
+	{
+		"name": "Programming",
+		"link": "https://discord.gg/010z0Kw1A9ql5c1Qe",
+		"description": "An active community around various programming languages, operating systems, as well as hardware, security, and low-level programming."
+	},
+	{
+		"name": "Programming Buddies",
+		"link": "https://discord.gg/cEJzdnt",
+		"description": "The official /r/ProgrammingBuddies Discord server!"
+	},
+	{
+		"name": "Rust Programming Language Community",
+		"link": "https://discord.gg/6chRQQ9",
+		"description": ""
+	},
+	{
+		"name": "SpeakJS",
+		"link": "https://discord.gg/NEQuu2T",
+		"description": "JavaScript-focused Discord"
+	},
+	{
+		"name": "VSCode",
+		"link": "https://discord.gg/UNxNyyH",
+		"description": "Unofficial community for VSCode"
+	},
+	{
+		"name": "/r/webdev and /r/web_design",
+		"link": "https://discord.gg/qfQdzhb",
+		"description": "r/webdev's and r/web_design's official Discord"
+	},
+	{
+		"name": "c0debase",
+		"link": "https://discord.gg/kUsJxeJ",
+		"description": ""
+	},
+	{
+		"name": "HelloCoding.de",
+		"link": "https://discord.gg/XmvbJZD",
+		"description": "Dein neuer Discord Server mit dem Thema Programmieren!"
+	},
+	{
+		"name": "Unleashed Design",
+		"link": "https://discord.gg/jpzF9TF",
+		"description": "Web design and development-focused Discord"
+	},
+	{
+		"name": "AdonisJS](https://adonisjs.com/)",
+		"link": "https://discord.gg/vDcEjq6",
+		"description": "Node.js web framework with breath of fresh air and drizzle of elegant syntax on top of it."
+	},
+	{
+		"name": "Deno](https://deno.land/)",
+		"link": "https://discord.gg/deno",
+		"description": "A secure runtime for JavaScript and TypeScript"
+	},
+	{
+		"name": "DirectX",
+		"link": "https://discord.gg/MU4GAjM",
+		"description": "A collection of application programming interfaces for handling tasks related to multimedia, especially game programming and video, on Microsoft platforms"
+	},
+	{
+		"name": "Elixir](https://elixir-lang.org/)",
+		"link": "https://discord.gg/elixir",
+		"description": "Dynamic, functional language designed for building scalable and maintainable applications."
+	},
+	{
+		"name": "Ember.js](https://emberjs.com/)",
+		"link": "https://discord.gg/emberjs",
+		"description": "A framework for ambitious web developers."
+	},
+	{
+		"name": "Gatsby](https://gatsbyjs.org)",
+		"link": "https://discord.gg/gatsby",
+		"description": "React framework to build blazing fast, modern apps and websites"
+	},
+	{
+		"name": "Gridsome](https://gridsome.org)",
+		"link": "https://discord.gg/22ysRd3",
+		"description": "Modern Site Generator for Vue.js"
+	},
+	{
+		"name": "Flutter](https://flutter.dev/)",
+		"link": "https://discord.gg/N7Yshp4",
+		"description": "Google's UI toolkit for crafting beautiful, natively compiled applications for mobile, web, and desktop from a single codebase."
+	},
+	{
+		"name": "Laravel](https://laravel.com/)",
+		"link": "https://discord.gg/E6EKnWS",
+		"description": "The PHP Framework For Web Artisans"
+	},
+	{
+		"name": "Meteor](https://www.meteor.com/)",
+		"link": "https://discord.gg/255GbrZ",
+		"description": "Isomorphic JavaScript web framework written using Node.js"
+	},
+	{
+		"name": "NativeScript](https://nativescript.org/)",
+		"link": "https://discord.gg/tWatGYj",
+		"description": "Open source framework for building truly native mobile apps with Angular, Vue.js, TypeScript, or JavaScript."
+	},
+	{
+		"name": "NestJS](https://nestjs.com/)",
+		"link": "https://discord.gg/G7Qnnhy",
+		"description": "A progressive Node.js framework"
+	},
+	{
+		"name": "Nuxt.js](https://nuxtjs.org/)",
+		"link": "https://discord.gg/b3dvQ9b",
+		"description": "The Intuitive Vue Framework"
+	},
+	{
+		"name": "Python](https://www.python.org/)",
+		"link": "https://discord.gg/python",
+		"description": "An interpreted, high-level, general-purpose programming language."
+	},
+	{
+		"name": "Quasar Framework](https://quasar.dev/)",
+		"link": "https://discord.gg/3yd2hUd",
+		"description": "The Intuitive Vue Framework"
+	},
+	{
+		"name": "Reactiflux](https://www.reactiflux.com/)",
+		"link": "https://discord.gg/reactiflux",
+		"description": "The world's largest React.js chat server"
+	},
+	{
+		"name": "ReasonML](https://reasonml.github.io/)",
+		"link": "https://discord.gg/BqTrSx5",
+		"description": "Reason/ReasonML is a syntax extension and toolchain for OCaml"
+	},
+	{
+		"name": "Ruby](https://www.ruby-lang.org/)",
+		"link": "https://discord.gg/UyQnKrT",
+		"description": "A dynamic, open source programming language with a focus on simplicity and productivity."
+	},
+	{
+		"name": "Rust](https://www.rust-lang.org/)",
+		"link": "https://discord.gg/eg33A3Y",
+		"description": "A language empowering everyone to build reliable and efficient software."
+	},
+	{
+		"name": "Saber](https://saber.land/)",
+		"link": "https://discord.gg/kSqVgeW",
+		"description": "Build static sites in Vue.js, without the hassle"
+	},
+	{
+		"name": "Svelte](https://svelte.dev/)",
+		"link": "https://discord.gg/gT2gbRQ",
+		"description": "Cybernetically enhanced web apps"
+	},
+	{
+		"name": "TypeScript](https://www.typescriptlang.org/)",
+		"link": "https://discord.gg/GKA8Vmz",
+		"description": "A superset of JavaScript that compiles to clean JavaScript output"
+	},
+	{
+		"name": "Vue](https://vuejs.org/)",
+		"link": "https://discord.gg/vue",
+		"description": "A progressive, incrementally-adoptable JavaScript framework for building UI on the web"
+	},
+	{
+		"name": "VueFront](https://vuefront.com/)",
+		"link": "https://discord.gg/C9vcTCQ",
+		"description": "Vue Powered CMS agnostic PWA and SPA frontend for your old-fashioned Blog and E-commerce site"
+	},
+	{
+		"name": "WebAssembly](https://webassembly.org/)",
+		"link": "https://discord.gg/ySQTFK6",
+		"description": "an open standard that defines a portable binary-code format for executable programs, and a corresponding textual assembly language"
+	},
+	{
+		"name": "bootstrap-vue](https://bootstrap-vue.org/)",
+		"link": "https://discord.gg/vwNzawa",
+		"description": "Quickly integrate Bootstrap v4 components with Vue.js."
+	},
+	{
+		"name": "@chakra-ui](https://chakra-ui.com/)",
+		"link": "https://discord.gg/eDWJFU5",
+		"description": "Simple, Modular and Accessible UI Components for your React Applications"
+	},
+	{
+		"name": "Buefy](https://buefy.github.io/)",
+		"link": "https://discord.gg/ZkdFJMr",
+		"description": "A lightweight library of responsive UI components for Vue.js based on Bulma"
+	},
+	{
+		"name": "Inkline](https://inkline.io/)",
+		"link": "https://discord.gg/2w5UGnK",
+		"description": "modern UI/UX Framework for Vue.js designed for creating flawless responsive web applications."
+	},
+	{
+		"name": "TailwindCSS](https://tailwindcss.com/)",
+		"link": "https://discord.gg/vPPcaFx",
+		"description": "Highly customizable, low-level CSS framework"
+	},
+	{
+		"name": "UIKit](https://getuikit.com/)",
+		"link": "https://discord.gg/NEt4Pv7",
+		"description": "A lightweight and modular front-end framework for developing fast and powerful web interfaces."
+	},
+	{
+		"name": "VueMaterial](https://vuematerial.io/)",
+		"link": "https://discord.gg/RmJ93Sp",
+		"description": "Material Design for Vue.js"
+	},
+	{
+		"name": "Vuetify](https://vuetifyjs.com/)",
+		"link": "https://discord.gg/m9jP5vy",
+		"description": "Material Design component framework for Vue.js."
+	},
+	{
+		"name": "ESLint](https://eslint.org/)",
+		"link": "https://discord.gg/8szcydm",
+		"description": "A pluggable and configurable linter tool for identifying and reporting on patterns in JavaScript"
+	},
+	{
+		"name": "Hasura](https://hasura.io/)",
+		"link": "https://discord.gg/hasura",
+		"description": "An open source engine that connects to your databases & microservices and auto-generates a production-ready GraphQL backend."
+	},
+	{
+		"name": "MirageJS](https://miragejs.com/)",
+		"link": "https://discord.gg/jC3xwCF",
+		"description": "Build, test and demo your JavaScript application without an API"
+	},
+	{
+		"name": "Rome](https://romejs.dev/)",
+		"link": "https://discord.gg/BsAUjhJ",
+		"description": "An experimental JavaScript toolchain"
+	},
+	{
+		"name": "Sentry](https://sentry.io/)",
+		"link": "https://discord.gg/grP9TJv",
+		"description": "Application Monitoring and Error Tracking Software"
+	},
+	{
+		"name": "StandardJS](https://standardjs.com/)",
+		"link": "https://discord.gg/ZegqCBr",
+		"description": "JavaScript style guide, linter, and formatter"
+	},
+	{
+		"name": "Storybook](https://storybook.js.org/)",
+		"link": "https://discord.gg/NzrwbJ5",
+		"description": "UI component explorer for frontend developers"
+	},
+	{
+		"name": "Testing Library](http://testing-library.com/)",
+		"link": "https://discord.com/invite/c6JN9fM",
+		"description": "Simple and complete testing utilities that encourage good testing practices"
+	},
+	{
+		"name": "Discord Artificial Intelligence](https://discordnetwork.com/)",
+		"link": "https://discord.sg/ai",
+		"description": "DISCORD\u00e2\u201e\u00a2 ARTIFICIAL INTELLIGENCE, an online community for those interested in engaging in imaginative and intelligent discussion of artificial intelligence, machine learning, and natural language processing as well as general mathematics and computer science."
+	},
+	{
+		"name": "r/LearnMachineLearning](https://www.reddit.com/r/learnmachinelearning)",
+		"link": "https://discord.gg/5kTPkb",
+		"description": "A beginner-friendly sub-reddit for learning machine learning."
+	},
+	{
+		"name": "FrontendLove Amsterdam](https://www.frontenddeveloperlove.com/)",
+		"link": "https://discord.gg/U2tzFPE",
+		"description": "The Largest and Most Epic JavaScript Conferences."
+	},
+	{
+		"name": "React Europe](https://www.react-europe.org/)",
+		"link": "https://discord.gg/ySbfQzm",
+		"description": "The Original React Conference in Europe"
+	},
+	{
+		"name": "Svelte Society Day](https://sveltesociety.dev/)",
+		"link": "https://discord.gg/n7PEQ5T",
+		"description": "An online full-day conference on all things Svelte"
+	},
+	{
+		"name": "Tauri](https://tauri.studio/)",
+		"link": "https://discord.gg/TDm7DqJ",
+		"description": "Framework agnostic toolchain for building highly secure native apps"
+	}
+]
