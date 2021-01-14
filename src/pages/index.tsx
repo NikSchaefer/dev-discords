@@ -1,6 +1,5 @@
 import jsonData from "@components/data.json";
 import Icon from "@components/icons";
-import Link from "next/link";
 import { useState } from "react";
 import styled from "styled-components";
 import { devData } from "types";
