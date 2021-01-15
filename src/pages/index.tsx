@@ -111,7 +111,7 @@ export default function Home(): JSX.Element {
 				<StyledH>Developer Discords</StyledH>
 				<StyledCredit>
 					Data from{" "}
-					<StyledLink href="https://github.com/ljosberinn/">
+					<StyledLink href="https://github.com/ljosberinn/awesome-dev-discord">
 						Gerrit Alex
 					</StyledLink>
 					⋅ Made by{" "}

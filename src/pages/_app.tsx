@@ -1,6 +1,4 @@
 import "@styles/global.css";
-import Footer from "@components/footer";
-import Header from "@components/header";
 import type { AppProps } from "next/app";
 import Head from "next/head";
 
@@ -36,12 +34,7 @@ export default function MyApp({ Component, pageProps }: AppProps): JSX.Element {
 				<meta name="msapplication-TileColor" content="#da532c" />
 				<meta name="theme-color" content="#ffffff" />
 			</Head>
-
-			<Header />
-
 			<Component {...pageProps} />
-
-			<Footer />
 		</div>
 	);
 }
