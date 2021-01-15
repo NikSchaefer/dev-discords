@@ -94,7 +94,10 @@ export default function Home(): JSX.Element {
 		}
 		const out: devData[] = [];
 		for (const x of jsonData) {
-			if (x.name.toLowerCase().startsWith(search.toLowerCase())) {
+			if (
+				x.name.toLowerCase().startsWith(search.toLowerCase()) ||
+				x.name.toLowerCase().includes(search.toLowerCase())
+			) {
 				out.push(x);
 			}
 		}
@@ -108,9 +111,13 @@ export default function Home(): JSX.Element {
 				<StyledH>Developer Discords</StyledH>
 				<StyledCredit>
 					Data from{" "}
-					<StyledLink href="https://github.com/ljosberinn/">Gerrit Alex</StyledLink>
+					<StyledLink href="https://github.com/ljosberinn/">
+						Gerrit Alex
+					</StyledLink>
 					⋅ Made by{" "}
-					<StyledLink href="https://nikschaefer.tech/">NikSchaefer</StyledLink>
+					<StyledLink href="https://nikschaefer.tech/">
+						NikSchaefer
+					</StyledLink>
 				</StyledCredit>
 				<StyledIconDiv>
 					<Icon name="Arrow" />
