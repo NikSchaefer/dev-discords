@@ -40,6 +40,11 @@
 		"description": "Focused on hacking, making software, hardware and a mix of both"
 	},
 	{
+		"name": "Discord.py",
+		"link": "https://discord.gg/r3sSKJJ",
+		"description": "Discord focused on developing discord bots in python "
+	},
+	{
 		"name": "Functional Programming",
 		"link": "https://discord.gg/K6XHBSh",
 		"description": ""
