@@ -113,7 +113,7 @@ export default function Home(): JSX.Element {
 					Data from{" "}
 					<StyledLink href="https://github.com/ljosberinn/awesome-dev-discord">
 						Gerrit Alex
-					</StyledLink>
+					</StyledLink>{" "}
 					⋅ Made by{" "}
 					<StyledLink href="https://nikschaefer.tech/">
 						NikSchaefer
