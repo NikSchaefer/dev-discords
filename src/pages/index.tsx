@@ -16,18 +16,26 @@ import { devData } from "types";
 
 import jsonData from "../data.json";
 
+const sortedData = jsonData.sort((a, b) => {
+    if (a.name < b.name) { return -1 }
+    if (a.name > b.name)
+    {
+        return 1
+    }
+    return 0
+})
 // eslint-disable-next-line import/no-default-export
 export default function Home(): JSX.Element {
 	const [search, setSearch] = useState("");
-	const [searchArr, setSearchArr] = useState(jsonData);
+	const [searchArr, setSearchArr] = useState(sortedData);
 
 	function filter(search: string): boolean {
 		if (search.length === 0 || search === "" || search === " ") {
-			setSearchArr(jsonData);
+			setSearchArr(sortedData);
 			return false;
 		}
 		const out: devData[] = [];
-		for (const x of jsonData) {
+		for (const x of sortedData) {
 			if (
 				x.name.toLowerCase().startsWith(search.toLowerCase()) ||
 				x.name.toLowerCase().includes(search.toLowerCase())
