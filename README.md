@@ -9,7 +9,7 @@ Data will be auto sorted you can put it anywhere in the array
 
 ## Credit
 
-Data is from [Gerrit Alex](https://github.com/ljosberinn/awesome-dev-discord)
+Original Data is from [Gerrit Alex](https://github.com/ljosberinn/awesome-dev-discord)
 
 Icons are from [Primer](https://primer.style/octicons/)
 

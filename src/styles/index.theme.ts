@@ -12,12 +12,10 @@ const StyledDiv = styled.div`
 const StyledComponent = styled.div`
 	width: 300px;
 	text-align: left;
-	height: 180px;
-	display: flex;
+	height: 60%;
 	border: ${accent} 3px solid;
 	border-radius: 10px;
-	flex-direction: column;
-	justify-content: space-between;
+	position:relative;
 	padding: 20px;
 	margin: 20px;
 	transition: all ease-in-out 0.3s;
@@ -33,6 +31,9 @@ const StyledComponent = styled.div`
 const StyledImage = styled.img`
 	width: 40px;
 	margin-left: auto;
+	top:10px;
+	right:20px;
+	position: absolute;
 	&:hover {
 		cursor: pointer;
 	}

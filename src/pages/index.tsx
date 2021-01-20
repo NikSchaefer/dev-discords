@@ -57,7 +57,7 @@ export default function Home(): JSX.Element {
 			<StyledInfoDiv>
 				<StyledH>Developer Discords</StyledH>
 				<StyledCredit>
-					Data from{" "}
+					Original Data from{" "}
 					<StyledLink href="https://github.com/ljosberinn/awesome-dev-discord">
 						Gerrit Alex
 					</StyledLink>{" "}
@@ -84,11 +84,11 @@ export default function Home(): JSX.Element {
 				{searchArr.map((temp) => (
 					<a href={temp.link} key={temp.name}>
 						<StyledComponent className="servers">
+							<StyledImage alt="discord" src="/discord.svg" />
 							<h3>
 								<IconCheck /> {temp.name}
 							</h3>
 							<p>{temp.description}</p>
-							<StyledImage alt="discord" src="/discord.svg" />
 						</StyledComponent>
 					</a>
 				))}
