@@ -1,87 +1,23 @@
-import jsonData from "@components/data.json";
-import Icon from "@components/icons";
+import { IconCheck, IconArrow, IconGithub } from '@components/icons';
+import {
+	StyledComponent,
+	StyledDiv,
+	StyledH,
+	StyledIconDiv,
+	StyledImage,
+	StyledInfoDiv,
+	StyledInput,
+	StyledLink,
+	StyledCredit,
+	StyledGithub,
+} from "@styles/index.theme";
 import { useState } from "react";
-import styled from "styled-components";
 import { devData } from "types";
 
-const accent = "rgba(0, 255, 255, 0.616)";
-const StyledDiv = styled.div`
-	display: flex;
-	flex-wrap: wrap;
-	justify-content: center;
-	width: 95%;
-	max-width: 1200px;
-	margin: auto;
-`;
-const StyledComponent = styled.div`
-	width: 300px;
-	text-align: left;
-	height: 180px;
-	display: flex;
-	border: ${accent} 3px solid;
-	border-radius: 10px;
-	flex-direction: column;
-	justify-content: space-between;
-	padding: 20px;
-	margin: 20px;
-	transition: all ease-in-out 0.3s;
-	& h3 {
-		margin-bottom: 0;
-	}
-	&:hover {
-		cursor: pointer;
-		background-color: white;
-		border-color: rgb(0, 197, 197);
-	}
-`;
-const StyledImage = styled.img`
-	width: 40px;
-	margin-left: auto;
-	&:hover {
-		cursor: pointer;
-	}
-`;
-const StyledInput = styled.input`
-	padding: 10px;
-	outline: 0;
-	font-size: 22px;
-	max-width: 600px;
-	width: 90%;
-	border-radius: 10px;
-	border: ${accent} 2px solid;
-	background-color: #fafafa;
-	&:hover {
-		background-color: white;
-	}
-`;
-const StyledInfoDiv = styled.div`
-	margin-top: 100px;
-`;
-const StyledH = styled.h1`
-	text-transform: uppercase;
-	font-size: 40px;
-	font-weight: 700;
-	color: #141414;
-`;
-const StyledCredit = styled.h2`
-	font-weight: 400;
-	font-family: Verdana, Geneva, Tahoma, sans-serif;
-	color: gray;
-	font-size: 20px;
-	margin-bottom: 50px;
-`;
-const StyledLink = styled.a`
-	border-bottom: solid 4px ${accent};
-	padding-bottom: 5px;
-	transition: all ease-in-out 0.3s;
-	&:hover {
-		border-bottom: solid 4px rgb(0, 255, 221);
-		cursor: pointer;
-	}
-`;
-const StyledIconDiv = styled.div`
-	margin: 30px 0;
-`;
+import jsonData from "../data.json";
+
+
+
 // eslint-disable-next-line import/no-default-export
 export default function Home(): JSX.Element {
 	const [search, setSearch] = useState("");
@@ -107,6 +43,11 @@ export default function Home(): JSX.Element {
 
 	return (
 		<main>
+			<StyledGithub>
+				<a href="https://github.com/NikSchaefer/dev-discords">
+					<IconGithub />
+				</a>
+			</StyledGithub>
 			<StyledInfoDiv>
 				<StyledH>Developer Discords</StyledH>
 				<StyledCredit>
@@ -120,7 +61,7 @@ export default function Home(): JSX.Element {
 					</StyledLink>
 				</StyledCredit>
 				<StyledIconDiv>
-					<Icon name="Arrow" />
+					<IconArrow />
 				</StyledIconDiv>
 				<StyledInput
 					aria-label="Search Bar"
@@ -138,7 +79,7 @@ export default function Home(): JSX.Element {
 					<a href={temp.link} key={temp.name}>
 						<StyledComponent className="servers">
 							<h3>
-								<Icon name="Check" /> {temp.name}
+								<IconCheck /> {temp.name}
 							</h3>
 							<p>{temp.description}</p>
 							<StyledImage alt="discord" src="/discord.svg" />
