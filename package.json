@@ -18,7 +18,6 @@
 		"test": "jest"
 	},
 	"dependencies": {
-		"@mdx-js/loader": "^1.6.22",
 		"@types/node": "^14.14.20",
 		"@types/react": "^17.0.0",
 		"next": "10.0.5",
@@ -30,41 +29,10 @@
 	"devDependencies": {
 		"@babel/preset-typescript": "^7.12.7",
 		"@types/babel__core": "^7.1.12",
-		"@types/jest": "^26.0.20",
 		"@types/styled-components": "^5.1.7",
 		"babel-plugin-styled-components": "^1.12.0",
 		"eslint": "^7.17.0",
 		"eslint-config-galex": "^2.10.3",
 		"prettier": "^2.2.1"
-	},
-	"jest": {
-		"collectCoverageFrom": [
-			"src/**/*.{js,jsx,ts,tsx}"
-		],
-		"setupFilesAfterEnv": [
-			"<rootDir>/scripts/jest/setupTests.js"
-		],
-		"transform": {
-			"^.+\\.(js|jsx|ts|tsx)$": "<rootDir>/node_modules/babel-jest",
-			"^.+\\.css$": "<rootDir>/scripts/jest/cssTransform.js"
-		},
-		"transformIgnorePatterns": [
-			"/node_modules/",
-			"^.+\\.module\\.(css|sass|scss)$"
-		],
-		"moduleNameMapper": {
-			"^.+\\.module\\.(css|sass|scss)$": "identity-obj-proxy"
-		},
-		"modulePaths": [
-			"<rootDir>"
-		],
-		"coverageDirectory": "coverage",
-		"watchPlugins": [
-			"jest-watch-typeahead/filename",
-			"jest-watch-typeahead/testname"
-		],
-		"clearMocks": true,
-		"restoreMocks": true,
-		"resetMocks": true
 	}
 }

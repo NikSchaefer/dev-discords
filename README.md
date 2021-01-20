@@ -2,7 +2,10 @@
 
 Searchable Collection of Developer Discord Servers
 
-You can add discords in the data.json in src/components
+## Contributing
+
+You can add new discords in the data.json in src/data.json
+try to keep in alphabetical order
 
 ## Credit
 

@@ -1,12 +1,8 @@
-.codeclimate.json
-.env
-.env.example
 .eslintrc.js
 .gitignore
 .prettierrc
 .eslintignore
 .prettierignore
-.github/
 
 README.MD
 LICENSE
