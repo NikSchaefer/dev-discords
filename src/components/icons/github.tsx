@@ -6,7 +6,7 @@ export default function IconGithub(): JSX.Element {
 			viewBox="0 0 16 16"
 			width="36"
 			height="36"
-			style={{transform:'rotate(120deg)'}}
+			style={{ transform: "rotate(120deg)" }}
 		>
 			<path
 				fillRule="evenodd"

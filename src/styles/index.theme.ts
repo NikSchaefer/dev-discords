@@ -79,13 +79,12 @@ const StyledIconDiv = styled.div`
 	margin: 30px 0;
 `;
 const StyledGithub = styled.div`
-	position:absolute;
-	left:10px;
-	top:10px;
-	width:30px;
-`
-export
-{
+	position: absolute;
+	left: 10px;
+	top: 10px;
+	width: 30px;
+`;
+export {
 	StyledGithub,
 	StyledDiv,
 	StyledComponent,

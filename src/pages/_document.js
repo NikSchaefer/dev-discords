@@ -32,6 +32,46 @@ export default class MyDocument extends Document {
 			<Html>
 				<Head>
 					<title>Developer Discords</title>
+					<meta
+						name="description"
+						content="Curated Collection of Developer related Discord Servers"
+					/>
+
+					<meta itemProp="name" content="Developer Discords" />
+					<meta
+						itemProp="description"
+						content="Curated Collection of Developer related Discord Servers"
+					/>
+					<meta
+						itemProp="image"
+						content="dev-discords.now.sh/icon.png"
+					/>
+
+					<meta
+						property="og:url"
+						content="https://dev-discords.now.sh"
+					/>
+					<meta property="og:type" content="website" />
+					<meta property="og:title" content="Developer Discords" />
+					<meta
+						property="og:description"
+						content="Curated Collection of Developer related Discord Servers"
+					/>
+					<meta
+						property="og:image"
+						content="dev-discords.now.sh/icon.png"
+					/>
+
+					<meta name="twitter:card" content="summary_large_image" />
+					<meta name="twitter:title" content="Developer Discords" />
+					<meta
+						name="twitter:description"
+						content="Curated Collection of Developer related Discord Servers"
+					/>
+					<meta
+						name="twitter:image"
+						content="dev-discords.now.sh/icon.png"
+					/>
 				</Head>
 				<body>
 					<Main />

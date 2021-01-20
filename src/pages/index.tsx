@@ -1,4 +1,4 @@
-import { IconCheck, IconArrow, IconGithub } from '@components/icons';
+import { IconCheck, IconArrow, IconGithub } from "@components/icons";
 import {
 	StyledComponent,
 	StyledDiv,
@@ -15,8 +15,6 @@ import { useState } from "react";
 import { devData } from "types";
 
 import jsonData from "../data.json";
-
-
 
 // eslint-disable-next-line import/no-default-export
 export default function Home(): JSX.Element {

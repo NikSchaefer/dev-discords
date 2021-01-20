@@ -4,5 +4,5 @@ export default function FourOhFour(): JSX.Element {
 	useEffect(() => {
 		window.location.href = "/"; // redirect
 	});
-	return <h1>Redirecting...</h1>
+	return <h1>Redirecting...</h1>;
 }
