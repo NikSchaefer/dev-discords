@@ -44,7 +44,7 @@ export default class MyDocument extends Document {
 					/>
 					<meta
 						itemProp="image"
-						content="dev-discords.now.sh/icon.png"
+						content="https://dev-discords.now.sh/icon.png"
 					/>
 
 					<meta
@@ -59,7 +59,7 @@ export default class MyDocument extends Document {
 					/>
 					<meta
 						property="og:image"
-						content="dev-discords.now.sh/icon.png"
+						content="https://dev-discords.now.sh/icon.png"
 					/>
 
 					<meta name="twitter:card" content="summary_large_image" />
@@ -70,7 +70,7 @@ export default class MyDocument extends Document {
 					/>
 					<meta
 						name="twitter:image"
-						content="dev-discords.now.sh/icon.png"
+						content="https://dev-discords.now.sh/icon.png"
 					/>
 				</Head>
 				<body>
