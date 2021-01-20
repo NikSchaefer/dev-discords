@@ -37,7 +37,7 @@ export default function Home(): JSX.Element {
 		const out: devData[] = [];
 		for (const x of sortedData) {
 			if (
-				x.name.toLowerCase().startsWith(search.toLowerCase()) ||
+				x.description.toLowerCase().includes(search.toLowerCase()) ||
 				x.name.toLowerCase().includes(search.toLowerCase())
 			) {
 				out.push(x);
