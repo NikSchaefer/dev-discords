@@ -92,7 +92,7 @@ export default function Home(): JSX.Element {
 						<StyledComponent className="servers">
 							<StyledImage alt="discord" src="/discord.svg" />
 							<h3>
-								<IconCheck /> {temp.name}
+								{temp.name}
 							</h3>
 							<p>{temp.description}</p>
 						</StyledComponent>

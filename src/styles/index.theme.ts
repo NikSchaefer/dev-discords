@@ -30,7 +30,7 @@ const StyledComponent = styled.div`
 const StyledImage = styled.img`
 	width: 40px;
 	margin-left: auto;
-	top: 10px;
+	top: 20px;
 	right: 20px;
 	position: absolute;
 	&:hover {
