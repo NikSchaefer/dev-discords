@@ -1,4 +1,4 @@
-import { IconCheck, IconArrow, IconGithub } from "@components/icons";
+import { IconArrow, IconGithub } from "@components/icons";
 import {
 	StyledComponent,
 	StyledDiv,
