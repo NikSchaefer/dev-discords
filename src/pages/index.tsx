@@ -53,7 +53,10 @@ export default function Home(): JSX.Element {
 	return (
 		<main>
 			<StyledGithub>
-				<a aria-label="Github of Website" href="https://github.com/NikSchaefer/dev-discords">
+				<a
+					aria-label="Github of Website"
+					href="https://github.com/NikSchaefer/dev-discords"
+				>
 					<IconGithub />
 				</a>
 			</StyledGithub>

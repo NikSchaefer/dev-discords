@@ -1,6 +1,6 @@
 import styled, { keyframes } from "styled-components";
 
-const accent = "rgba(0, 217, 255, 0.616)";
+const accent = "rgba(0, 217, 255, 0.316)";
 const StyledDiv = styled.div`
 	display: flex;
 	flex-wrap: wrap;
@@ -24,7 +24,7 @@ const StyledComponent = styled.div`
 	}
 	&:hover {
 		cursor: pointer;
-		border-color: rgb(0, 255, 221);
+		border-color: rgb(0, 217, 255);
 	}
 `;
 const StyledImage = styled.img`
