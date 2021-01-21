@@ -99,6 +99,7 @@ export default function Home(): JSX.Element {
 					</a>
 				))}
 			</StyledDiv>
+			<StyledCredit>⭐ on <StyledLink href="https://github.com/NikSchaefer/dev-discords">Github</StyledLink> ⋅ Made with ❤️</StyledCredit>
 		</main>
 	);
 }
