@@ -1,4 +1,4 @@
-import styled from "styled-components";
+import styled, { keyframes } from "styled-components";
 
 const accent = "rgba(0, 217, 255, 0.616)";
 const StyledDiv = styled.div`
@@ -15,7 +15,7 @@ const StyledComponent = styled.div`
 	height: 60%;
 	border: ${accent} 3px solid;
 	border-radius: 10px;
-	position:relative;
+	position: relative;
 	padding: 20px;
 	margin: 20px;
 	transition: all ease-in-out 0.3s;
@@ -24,15 +24,14 @@ const StyledComponent = styled.div`
 	}
 	&:hover {
 		cursor: pointer;
-		background-color: white;
 		border-color: rgb(0, 255, 221);
 	}
 `;
 const StyledImage = styled.img`
 	width: 40px;
 	margin-left: auto;
-	top:10px;
-	right:20px;
+	top: 10px;
+	right: 20px;
 	position: absolute;
 	&:hover {
 		cursor: pointer;
@@ -46,10 +45,6 @@ const StyledInput = styled.input`
 	width: 90%;
 	border-radius: 10px;
 	border: ${accent} 2px solid;
-	background-color: #fafafa;
-	&:hover {
-		background-color: white;
-	}
 `;
 const StyledInfoDiv = styled.div`
 	margin-top: 100px;
@@ -64,20 +59,35 @@ const StyledCredit = styled.h2`
 	font-weight: 400;
 	font-family: Verdana, Geneva, Tahoma, sans-serif;
 	color: gray;
-	font-size: 20px;
+	font-size: 18px;
+	width: 90%;
+	margin: auto;
+	line-height: 40px;
 	margin-bottom: 50px;
 `;
 const StyledLink = styled.a`
-	border-bottom: solid 4px ${accent};
+	border-bottom: solid 5px ${accent};
 	padding-bottom: 5px;
 	transition: all ease-in-out 0.3s;
 	&:hover {
-		border-bottom: solid 4px rgb(0, 255, 221);
+		border-bottom: solid 5px rgb(0, 255, 221);
 		cursor: pointer;
 	}
 `;
+const Animation = keyframes`
+0%, 100%{
+    transform: translateY(-25%);
+    -webkit-animation-timing-function: cubic-bezier(0.8,0,1,1);
+    animation-timing-function: cubic-bezier(0.8,0,1,1);
+  }
+  50%{
+    transform: none;
+    -webkit-animation-timing-function: cubic-bezier(0,0,0.2,1);
+    animation-timing-function: cubic-bezier(0,0,0.2,1);
+  }`;
 const StyledIconDiv = styled.div`
 	margin: 30px 0;
+	animation: 1s ${Animation} infinite;
 `;
 const StyledGithub = styled.div`
 	position: absolute;
