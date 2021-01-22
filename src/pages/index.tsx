@@ -14,7 +14,7 @@ import {
 import { useState } from "react";
 import { devData } from "types";
 
-import jsonData from "../data.json";
+import jsonData from "../../discords.json";
 
 const sortedData = jsonData.sort((a, b) => {
 	if (a.name < b.name) {

@@ -4,10 +4,12 @@ Searchable Collection of Developer Discord Servers
 
 ## Contributing
 
-You can add new discords in the data.json in src/data.json Data will be auto
+You can add new discords in the discords.json in the home directory Data will be auto
 sorted you can put it anywhere in the array
 
 follow the same format and make sure invite link is permanant
+
+see CONTRIBUTING.md for more information
 
 ## Credit
 
@@ -20,7 +22,7 @@ Icons are from [Primer](https://primer.style/octicons/)
 
 Built with
 
--   NextJS
+-   NextJS (SSG)
 -   React
 -   Typescript
 -   Styled Components
