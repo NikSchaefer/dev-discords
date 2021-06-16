@@ -1,5 +1,10 @@
 [
 	{
+		"name": "Angular Discord",
+		"link": "https://discord.com/invite/angular",
+		"description": "Official Discord Community of the Angular framework"
+	},
+	{
 		"name": "Clojurians",
 		"link": "https://discord.gg/8UU7XM5",
 		"description": "Community for Clojurescript"
