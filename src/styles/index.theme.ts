@@ -1,6 +1,6 @@
 import styled, { keyframes } from "styled-components";
 
-const accent = "rgba(0, 217, 255, 0.316)";
+const accent = "var(--accent)";
 const StyledDiv = styled.div`
 	display: flex;
 	flex-wrap: wrap;
@@ -45,15 +45,16 @@ const StyledInput = styled.input`
 	width: 90%;
 	border-radius: 10px;
 	border: ${accent} 2px solid;
+	background-color:transparent;
 `;
 const StyledInfoDiv = styled.div`
-	margin-top: 100px;
+	padding-top: 100px;
 `;
 const StyledH = styled.h1`
 	text-transform: uppercase;
 	font-size: 40px;
 	font-weight: 700;
-	color: #141414;
+	color: var(--title);
 `;
 const StyledCredit = styled.h2`
 	font-weight: 400;
@@ -63,7 +64,7 @@ const StyledCredit = styled.h2`
 	width: 90%;
 	margin: auto;
 	line-height: 40px;
-	margin-bottom: 50px;
+	padding-bottom: 50px;
 `;
 const StyledLink = styled.a`
 	border-bottom: solid 5px ${accent};
@@ -95,6 +96,25 @@ const StyledGithub = styled.div`
 	top: 10px;
 	width: 30px;
 `;
+const StyledDarkmode = styled.button`
+	position: absolute;
+	right: 30px;
+	top: 10px;
+	width: 30px;
+	background-color: transparent;
+	border: none;
+
+	svg {
+		padding: 10px;
+		border-radius: 8px;
+		:hover {
+			background-color: var(--hover);
+		}
+	}
+	:hover {
+		cursor: pointer;
+	}
+`;
 export {
 	StyledGithub,
 	StyledDiv,
@@ -106,4 +126,5 @@ export {
 	StyledImage,
 	StyledInput,
 	StyledCredit,
+	StyledDarkmode,
 };

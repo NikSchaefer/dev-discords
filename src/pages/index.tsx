@@ -10,8 +10,11 @@ import {
 	StyledLink,
 	StyledCredit,
 	StyledGithub,
+	StyledDarkmode,
 } from "@styles/index.theme";
 import { useState } from "react";
+import { BiSun } from "react-icons/bi";
+import { BsMoon } from "react-icons/bs";
 import { devData } from "types";
 
 import jsonData from "../../discords.json";
@@ -29,6 +32,7 @@ const sortedData = jsonData.sort((a, b) => {
 export default function Home(): JSX.Element {
 	const [search, setSearch] = useState("");
 	const [searchArr, setSearchArr] = useState(sortedData);
+	const [isDarkMode, setIsDarkMode] = useState(false);
 
 	function filter(search: string): boolean {
 		const keyword = search.toLowerCase().trim();
@@ -60,6 +64,14 @@ export default function Home(): JSX.Element {
 					<IconGithub />
 				</a>
 			</StyledGithub>
+			<StyledDarkmode
+				onClick={() => {
+					document.body.classList.toggle("dark-mode");
+					setIsDarkMode(!isDarkMode);
+				}}
+			>
+				{isDarkMode ? <BiSun color='white' size="25px" /> : <BsMoon size="25px" />}
+			</StyledDarkmode>
 			<StyledInfoDiv>
 				<StyledH>Developer Discords</StyledH>
 				<StyledCredit>
@@ -68,7 +80,7 @@ export default function Home(): JSX.Element {
 						Gerrit Alex
 					</StyledLink>{" "}
 					⋅ Made by{" "}
-					<StyledLink href="https://nikschaefer.tech/">
+					<StyledLink href="https://github.com/NikSchaefer">
 						NikSchaefer
 					</StyledLink>
 				</StyledCredit>
@@ -91,15 +103,19 @@ export default function Home(): JSX.Element {
 					<a href={temp.link} key={temp.name}>
 						<StyledComponent className="servers">
 							<StyledImage alt="discord" src="/discord.svg" />
-							<h3>
-								{temp.name}
-							</h3>
+							<h3>{temp.name}</h3>
 							<p>{temp.description}</p>
 						</StyledComponent>
 					</a>
 				))}
 			</StyledDiv>
-			<StyledCredit>⭐ on <StyledLink href="https://github.com/NikSchaefer/dev-discords">Github</StyledLink> ⋅ Made with ❤️</StyledCredit>
+			<StyledCredit>
+				⭐ on{" "}
+				<StyledLink href="https://github.com/NikSchaefer/dev-discords">
+					Github
+				</StyledLink>{" "}
+				⋅ Made with ❤️
+			</StyledCredit>
 		</main>
 	);
 }
