@@ -13,6 +13,7 @@ body {
 	--hover: #edf2f7;
 
 	background-color: var(--background);
+	min-height: 100vh;
 }
 
 .dark-mode {

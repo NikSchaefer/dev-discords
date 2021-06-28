@@ -45,7 +45,8 @@ const StyledInput = styled.input`
 	width: 90%;
 	border-radius: 10px;
 	border: ${accent} 2px solid;
-	background-color:transparent;
+	background-color: transparent;
+	color: inherit;
 `;
 const StyledInfoDiv = styled.div`
 	padding-top: 100px;
