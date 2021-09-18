@@ -12,7 +12,7 @@ const StyledDiv = styled.div`
 const StyledComponent = styled.div`
 	width: 300px;
 	text-align: left;
-	height: 60%;
+	height: 150px;
 	border: ${accent} 3px solid;
 	border-radius: 10px;
 	position: relative;
@@ -99,9 +99,9 @@ const StyledGithub = styled.div`
 `;
 const StyledDarkmode = styled.button`
 	position: absolute;
-	right: 30px;
+	right: 20px;
 	top: 10px;
-	width: 30px;
+	width: 40px;
 	background-color: transparent;
 	border: none;
 
