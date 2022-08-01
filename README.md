@@ -3,6 +3,8 @@
 Developer Discords is a site full of collected active developer discord
 communities. It was built to bring more developers into the discord communities.
 
+<img src="./1.png" alt="" />
+
 ## Contributing
 
 You can add new discords in the discords.json in the home directory Data will be auto
