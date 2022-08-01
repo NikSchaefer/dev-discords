@@ -1,6 +1,7 @@
 # Developer Discords
 
-Searchable Collection of Developer Discord Servers
+Developer Discords is a site full of collected active developer discord
+communities. It was built to bring more developers into the discord communities.
 
 ## Contributing
 
