@@ -2,6 +2,8 @@
 
 An online collection of developer-related Discord servers — because programmers need more places to argue about tabs vs. spaces.
 
+<img src="" />
+
 ## ⚡ Table of Contents
 
 - 📝 [About](#about)
