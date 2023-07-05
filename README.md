@@ -2,7 +2,7 @@
 
 An online collection of developer-related Discord servers — because programmers need more places to argue about tabs vs. spaces.
 
-<img src="" />
+<img src="https://raw.githubusercontent.com/NikSchaefer/dev-discords/main/public/discords.png" />
 
 ## ⚡ Table of Contents
 
