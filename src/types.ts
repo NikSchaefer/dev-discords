@@ -1,5 +1,8 @@
-export type devData = {
+type Discord = {
 	name: string;
-	link: string;
 	description: string;
+	link: string;
+	category: string;
 };
+
+export type { Discord };

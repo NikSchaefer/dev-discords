@@ -1,40 +1,70 @@
-html,
-body {
-	padding: 0;
-	margin: 0;
-	font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
-		Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
-	text-align: center;
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
 
-	--background: white;
-	--accent: rgba(0, 217, 255, 0.316);
-	--title: #141414;
-	--arrow: black;
-	--hover: #edf2f7;
-
-	background-color: var(--background);
-	min-height: 100vh;
+html {
+	font-family: "Inter", sans-serif;
 }
 
-.dark-mode {
-	--background: #1b202c;
-	--accent: #82e6d9;
-	--title: white;
-	--arrow: var(--accent);
-	--hover: rgba(255, 255, 255, 0.08);
-
-	color: white;
+.text-effect {
+	@apply text-transparent bg-clip-text from-blue-400 to-pink-500 bg-gradient-to-r;
 }
 
-a {
-	color: inherit;
-	text-decoration: none;
+::-webkit-scrollbar {
+	width: 10px;
+}
+
+::-webkit-scrollbar-track {
+	@apply bg-primary/10;
+}
+
+::-webkit-scrollbar-thumb {
+	@apply bg-primary/80 rounded;
+}
+
+::-webkit-scrollbar-thumb:hover {
+	background: #555;
+}
+
+::selection {
+	@apply bg-primary/40 text-white;
+}
+
+.h0 {
+	@apply text-5xl sm:text-7xl md:text-8xl lg:text-9xl;
 }
 
 h1,
+.h1 {
+	@apply text-2xl md:text-4xl;
+}
+
 h2,
+.h2 {
+	@apply text-xl md:text-3xl;
+}
+
 h3,
+.h3 {
+	@apply text-lg md:text-2xl;
+}
+
 h4,
-h5 {
-	font-weight: 500;
+.h4 {
+	@apply text-base md:text-lg;
+}
+
+h5,
+.h5 {
+	@apply text-sm md:text-base;
+}
+
+h6,
+.h6 {
+	@apply text-xs md:text-sm;
+}
+
+body,
+.p {
+	@apply text-sm md:text-base;
 }

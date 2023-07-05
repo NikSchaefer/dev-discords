@@ -1,362 +1,434 @@
 [
 	{
-		"name": "Angular Discord",
-		"link": "https://discord.com/invite/angular",
-		"description": "Official Discord Community of the Angular framework"
-	},
-	{
 		"name": "Clojurians",
 		"link": "https://discord.gg/8UU7XM5",
-		"description": "Community for Clojurescript"
+		"description": "Community for Clojurescript",
+		"category": "Communities & Subreddits"
 	},
 	{
 		"name": "CodeSupport",
 		"link": "https://discord.gg/XQ9C3sY",
-		"description": "A community dedicated to giving guidance about programming"
+		"description": "A community dedicated to giving guidance about programming",
+		"category": "Communities & Subreddits"
 	},
 	{
 		"name": "The Coding Den",
 		"link": "https://discord.gg/code",
-		"description": "A programming server for everyone who is interested in coding"
-	},
-	{
-		"name": "Crypto Devs",
-		"link": "https://discord.gg/EDA6M3R",
-		"description": "The official Discord of /r/cryptodevs"
+		"description": "A programming server for everyone who is interested in coding",
+		"category": "Communities & Subreddits"
 	},
 	{
 		"name": "C# Inn",
 		"link": "https://discord.gg/rCMKcUU",
-		"description": "Help, study, learn and coop! All while having fun and making friends at C# Inn"
+		"description": "Help, study, learn and coop! All while having fun and making friends at C# Inn",
+		"category": "Communities & Subreddits"
 	},
 	{
 		"name": "Data & Dev Ops",
 		"link": "https://discord.gg/JUj5FNQ",
-		"description": "For everything related to databases & devops with PostgreSQL/Ansible/Bash/etc."
+		"description": "For everything related to databases & devops with PostgreSQL/Ansible/Bash/etc.",
+		"category": "Communities & Subreddits"
 	},
 	{
 		"name": "Devcord",
 		"link": "https://discord.gg/devcord",
-		"description": "Community that brings together web developers of all experience levels"
+		"description": "Community that brings together web developers of all experience levels",
+		"category": "Communities & Subreddits"
 	},
 	{
 		"name": "Digital Hackerspace",
 		"link": "https://discord.gg/WZyyYtA",
-		"description": "Focused on hacking, making software, hardware and a mix of both"
+		"description": "Focused on hacking, making software, hardware and a mix of both",
+		"category": "Communities & Subreddits"
 	},
 	{
-		"name": "Discord.py",
-		"link": "https://discord.gg/r3sSKJJ",
-		"description": "Discord focused on developing discord bots in python "
+		"name": "Front-end Developers.",
+		"link": "https://discord.gg/XHsumw2C39",
+		"description": "Friendly creative web developer Discord community of passionate front-end developers.",
+		"category": "Communities & Subreddits"
 	},
 	{
 		"name": "Functional Programming",
 		"link": "https://discord.gg/K6XHBSh",
-		"description": "Discord Server Focused on Functional Programming"
+		"description": "",
+		"category": "Communities & Subreddits"
 	},
 	{
 		"name": "Garbage Collectors",
 		"link": "https://discord.gg/3ahHtGt",
-		"description": "Welcome to Garbage Collectors (GC). We try to focus on \"long-term\" mentoring/guidance."
+		"description": "Welcome to Garbage Collectors (GC). We try to focus on \"long-term\" mentoring/guidance.",
+		"category": "Communities & Subreddits"
+	},
+	{
+		"name": "Galsen Dev",
+		"link": "https://discord.gg/CKZcKqf",
+		"description": "The largest community of Senegalese developers",
+		"category": "Communities & Subreddits"
 	},
 	{
 		"name": "houseparty.js",
 		"link": "https://discord.gg/zfSTAsm",
-		"description": "General and for discussion around broad topics"
+		"description": "General and for discussion around broad topics",
+		"category": "Communities & Subreddits"
 	},
 	{
 		"name": "Lisp",
 		"link": "https://discord.gg/hhk46CE",
-		"description": "Community for the Lisp language family"
+		"description": "Community for the Lisp language family",
+		"category": "Communities & Subreddits"
 	},
 	{
 		"name": "Low-Level Programming",
 		"link": "https://discord.gg/5ssDFZS",
-		"description": "For low-level/systems programming with C/C++/Rust/Assembly/etc."
+		"description": "For low-level/systems programming with C/C++/Rust/Assembly/etc.",
+		"category": "Communities & Subreddits"
+	},
+	{
+		"name": "Microsoft Community",
+		"link": "https://discord.gg/microsoft",
+		"description": "Community for tech enthusiasts which is mainly focused around Microsoft tech and services.",
+		"category": "Communities & Subreddits"
 	},
 	{
 		"name": "Programming",
 		"link": "https://discord.gg/010z0Kw1A9ql5c1Qe",
-		"description": "An active community around various programming languages, operating systems, as well as hardware, security, and low-level programming."
+		"description": "An active community around various programming languages, operating systems, as well as hardware, security, and low-level programming.",
+		"category": "Communities & Subreddits"
 	},
 	{
 		"name": "Programming Buddies",
 		"link": "https://discord.gg/cEJzdnt",
-		"description": "The official /r/ProgrammingBuddies Discord server!"
+		"description": "The official /r/ProgrammingBuddies Discord server!",
+		"category": "Communities & Subreddits"
 	},
 	{
 		"name": "Rust Programming Language Community",
 		"link": "https://discord.gg/6chRQQ9",
-		"description": "Rust Programming Community Discord Server"
+		"description": "",
+		"category": "Communities & Subreddits"
 	},
 	{
 		"name": "SpeakJS",
 		"link": "https://discord.gg/NEQuu2T",
-		"description": "JavaScript-focused Discord"
+		"description": "JavaScript-focused Discord",
+		"category": "Communities & Subreddits"
 	},
 	{
 		"name": "VSCode",
 		"link": "https://discord.gg/UNxNyyH",
-		"description": "Unofficial community for VSCode"
+		"description": "Unofficial community for VSCode",
+		"category": "Communities & Subreddits"
 	},
 	{
 		"name": "/r/webdev and /r/web_design",
 		"link": "https://discord.gg/qfQdzhb",
-		"description": "r/webdev's and r/web_design's official Discord"
+		"description": "r/webdev's and r/web_design's official Discord",
+		"category": "Communities & Subreddits"
 	},
 	{
 		"name": "c0debase",
 		"link": "https://discord.gg/kUsJxeJ",
-		"description": "German Programming Discord Server"
+		"description": "",
+		"category": "Communities & Subreddits"
 	},
 	{
 		"name": "HelloCoding.de",
 		"link": "https://discord.gg/XmvbJZD",
-		"description": "Dein neuer Discord Server mit dem Thema Programmieren!"
+		"description": "Dein neuer Discord Server mit dem Thema Programmieren!",
+		"category": "Communities & Subreddits"
 	},
 	{
 		"name": "Unleashed Design",
 		"link": "https://discord.gg/jpzF9TF",
-		"description": "Web design and development-focused Discord"
+		"description": "Web design and development-focused Discord",
+		"category": "Communities & Subreddits"
 	},
 	{
-		"name": "AdonisJS",
+		"name": "[AdonisJS](https://adonisjs.com/)",
 		"link": "https://discord.gg/vDcEjq6",
-		"description": "Node.js web framework with breath of fresh air and drizzle of elegant syntax on top of it."
+		"description": "Node.js web framework with breath of fresh air and drizzle of elegant syntax on top of it.",
+		"category": "Frameworks, Languages & Libraries"
 	},
 	{
-		"name": "Deno",
+		"name": "[Deno](https://deno.land/)",
 		"link": "https://discord.gg/deno",
-		"description": "A secure runtime for JavaScript and TypeScript"
+		"description": "A secure runtime for JavaScript and TypeScript",
+		"category": "Frameworks, Languages & Libraries"
 	},
 	{
 		"name": "DirectX",
 		"link": "https://discord.gg/MU4GAjM",
-		"description": "A collection of application programming interfaces for handling tasks related to multimedia, especially game programming and video, on Microsoft platforms"
+		"description": "A collection of application programming interfaces for handling tasks related to multimedia, especially game programming and video, on Microsoft platforms",
+		"category": "Frameworks, Languages & Libraries"
 	},
 	{
-		"name": "Elixir",
+		"name": "[Elixir](https://elixir-lang.org/)",
 		"link": "https://discord.gg/elixir",
-		"description": "Dynamic, functional language designed for building scalable and maintainable applications."
+		"description": "Dynamic, functional language designed for building scalable and maintainable applications.",
+		"category": "Frameworks, Languages & Libraries"
 	},
 	{
-		"name": "Ember.js",
+		"name": "[Ember.js](https://emberjs.com/)",
 		"link": "https://discord.gg/emberjs",
-		"description": "A framework for ambitious web developers."
+		"description": "A framework for ambitious web developers.",
+		"category": "Frameworks, Languages & Libraries"
 	},
 	{
-		"name": "Gatsby",
+		"name": "[Gatsby](https://gatsbyjs.org)",
 		"link": "https://discord.gg/gatsby",
-		"description": "React framework to build blazing fast, modern apps and websites"
+		"description": "React framework to build blazing fast, modern apps and websites",
+		"category": "Frameworks, Languages & Libraries"
 	},
 	{
-		"name": "Gridsome",
+		"name": "[Gridsome](https://gridsome.org)",
 		"link": "https://discord.gg/22ysRd3",
-		"description": "Modern Site Generator for Vue.js"
+		"description": "Modern Site Generator for Vue.js",
+		"category": "Frameworks, Languages & Libraries"
 	},
 	{
-		"name": "Flutter",
+		"name": "[Flutter](https://flutter.dev/)",
 		"link": "https://discord.gg/N7Yshp4",
-		"description": "Google's UI toolkit for crafting beautiful, natively compiled applications for mobile, web, and desktop from a single codebase."
+		"description": "Google's UI toolkit for crafting beautiful, natively compiled applications for mobile, web, and desktop from a single codebase.",
+		"category": "Frameworks, Languages & Libraries"
 	},
 	{
-		"name": "Laravel",
+		"name": "[Laravel](https://laravel.com/)",
 		"link": "https://discord.gg/E6EKnWS",
-		"description": "The PHP Framework For Web Artisans"
+		"description": "The PHP Framework For Web Artisans",
+		"category": "Frameworks, Languages & Libraries"
 	},
 	{
-		"name": "Meteor",
+		"name": "[Meteor](https://www.meteor.com/)",
 		"link": "https://discord.gg/255GbrZ",
-		"description": "Isomorphic JavaScript web framework written using Node.js"
+		"description": "Isomorphic JavaScript web framework written using Node.js",
+		"category": "Frameworks, Languages & Libraries"
 	},
 	{
-		"name": "NativeScript",
+		"name": "[NativeScript](https://nativescript.org/)",
 		"link": "https://discord.gg/tWatGYj",
-		"description": "Open source framework for building truly native mobile apps with Angular, Vue.js, TypeScript, or JavaScript."
+		"description": "Open source framework for building truly native mobile apps with Angular, Vue.js, TypeScript, or JavaScript.",
+		"category": "Frameworks, Languages & Libraries"
 	},
 	{
-		"name": "NestJS",
+		"name": "[NestJS](https://nestjs.com/)",
 		"link": "https://discord.gg/G7Qnnhy",
-		"description": "A progressive Node.js framework"
+		"description": "A progressive Node.js framework",
+		"category": "Frameworks, Languages & Libraries"
 	},
 	{
-		"name": "Nuxt.js",
+		"name": "[Nuxt.js](https://nuxtjs.org/)",
 		"link": "https://discord.gg/b3dvQ9b",
-		"description": "The Intuitive Vue Framework"
+		"description": "The Intuitive Vue Framework",
+		"category": "Frameworks, Languages & Libraries"
 	},
 	{
-		"name": "Python",
+		"name": "[Python](https://www.python.org/)",
 		"link": "https://discord.gg/python",
-		"description": "An interpreted, high-level, general-purpose programming language."
+		"description": "An interpreted, high-level, general-purpose programming language.",
+		"category": "Frameworks, Languages & Libraries"
 	},
 	{
-		"name": "Quasar Framework",
+		"name": "[Quasar Framework](https://quasar.dev/)",
 		"link": "https://discord.gg/3yd2hUd",
-		"description": "The Intuitive Vue Framework"
+		"description": "The Intuitive Vue Framework",
+		"category": "Frameworks, Languages & Libraries"
 	},
 	{
-		"name": "Reactiflux",
+		"name": "[Reactiflux](https://www.reactiflux.com/)",
 		"link": "https://discord.gg/reactiflux",
-		"description": "The world's largest React.js chat server"
+		"description": "The world's largest React.js chat server",
+		"category": "Frameworks, Languages & Libraries"
 	},
 	{
-		"name": "ReasonML",
+		"name": "[ReasonML](https://reasonml.github.io/)",
 		"link": "https://discord.gg/BqTrSx5",
-		"description": "Reason/ReasonML is a syntax extension and toolchain for OCaml"
+		"description": "Reason/ReasonML is a syntax extension and toolchain for OCaml",
+		"category": "Frameworks, Languages & Libraries"
 	},
 	{
-		"name": "Responsive",
-		"link": "https://discord.gg/semsxbP",
-		"description": "Responsive, a community based on tech and development of all kinds! Whether you want to share your ideas, assist others in their coding endeavors, or just want to mingle amongst the masses, this is the place for you!"
+		"name": "[Ruby](https://www.ruby-lang.org/)",
+		"link": "https://discord.gg/EnSevaRfct",
+		"description": "A dynamic, open source programming language with a focus on simplicity and productivity.",
+		"category": "Frameworks, Languages & Libraries"
 	},
 	{
-		"name": "Ruby",
-		"link": "https://discord.gg/UyQnKrT",
-		"description": "A dynamic, open source programming language with a focus on simplicity and productivity."
-	},
-	{
-		"name": "Rust",
+		"name": "[Rust](https://www.rust-lang.org/)",
 		"link": "https://discord.gg/eg33A3Y",
-		"description": "A language empowering everyone to build reliable and efficient software."
+		"description": "A language empowering everyone to build reliable and efficient software.",
+		"category": "Frameworks, Languages & Libraries"
 	},
 	{
-		"name": "Saber",
+		"name": "[Saber](https://saber.land/)",
 		"link": "https://discord.gg/kSqVgeW",
-		"description": "Build static sites in Vue.js, without the hassle"
+		"description": "Build static sites in Vue.js, without the hassle",
+		"category": "Frameworks, Languages & Libraries"
 	},
 	{
-		"name": "Svelte",
+		"name": "[Svelte](https://svelte.dev/)",
 		"link": "https://discord.gg/gT2gbRQ",
-		"description": "Cybernetically enhanced web apps"
+		"description": "Cybernetically enhanced web apps",
+		"category": "Frameworks, Languages & Libraries"
 	},
 	{
-		"name": "TypeScript",
+		"name": "[TypeScript](https://www.typescriptlang.org/)",
 		"link": "https://discord.gg/GKA8Vmz",
-		"description": "A superset of JavaScript that compiles to clean JavaScript output"
+		"description": "A superset of JavaScript that compiles to clean JavaScript output",
+		"category": "Frameworks, Languages & Libraries"
 	},
 	{
-		"name": "Vue",
+		"name": "[Vue](https://vuejs.org/)",
 		"link": "https://discord.gg/vue",
-		"description": "A progressive, incrementally-adoptable JavaScript framework for building UI on the web"
+		"description": "A progressive, incrementally-adoptable JavaScript framework for building UI on the web",
+		"category": "Frameworks, Languages & Libraries"
 	},
 	{
-		"name": "VueFront",
+		"name": "[VueFront](https://vuefront.com/)",
 		"link": "https://discord.gg/C9vcTCQ",
-		"description": "Vue Powered CMS agnostic PWA and SPA frontend for your old-fashioned Blog and E-commerce site"
+		"description": "Vue Powered CMS agnostic PWA and SPA frontend for your old-fashioned Blog and E-commerce site",
+		"category": "Frameworks, Languages & Libraries"
 	},
 	{
-		"name": "WebAssembly",
+		"name": "[WebAssembly](https://webassembly.org/)",
 		"link": "https://discord.gg/ySQTFK6",
-		"description": "an open standard that defines a portable binary-code format for executable programs, and a corresponding textual assembly language"
+		"description": "an open standard that defines a portable binary-code format for executable programs, and a corresponding textual assembly language",
+		"category": "Frameworks, Languages & Libraries"
 	},
 	{
-		"name": "bootstrap-vue",
+		"name": "[bootstrap-vue](https://bootstrap-vue.org/)",
 		"link": "https://discord.gg/vwNzawa",
-		"description": "Quickly integrate Bootstrap v4 components with Vue.js."
+		"description": "Quickly integrate Bootstrap v4 components with Vue.js.",
+		"category": "Component Libraries"
 	},
 	{
-		"name": "@chakra-ui",
+		"name": "[@chakra-ui](https://chakra-ui.com/)",
 		"link": "https://discord.gg/eDWJFU5",
-		"description": "Simple, Modular and Accessible UI Components for your React Applications"
+		"description": "Simple, Modular and Accessible UI Components for your React Applications",
+		"category": "Component Libraries"
 	},
 	{
-		"name": "Buefy",
+		"name": "[Buefy](https://buefy.github.io/)",
 		"link": "https://discord.gg/ZkdFJMr",
-		"description": "A lightweight library of responsive UI components for Vue.js based on Bulma"
+		"description": "A lightweight library of responsive UI components for Vue.js based on Bulma",
+		"category": "Component Libraries"
 	},
 	{
-		"name": "Inkline",
+		"name": "[Inkline](https://inkline.io/)",
 		"link": "https://discord.gg/2w5UGnK",
-		"description": "modern UI/UX Framework for Vue.js designed for creating flawless responsive web applications."
+		"description": "modern UI/UX Framework for Vue.js designed for creating flawless responsive web applications.",
+		"category": "Component Libraries"
 	},
 	{
-		"name": "TailwindCSS",
+		"name": "[TailwindCSS](https://tailwindcss.com/)",
 		"link": "https://discord.gg/vPPcaFx",
-		"description": "Highly customizable, low-level CSS framework"
+		"description": "Highly customizable, low-level CSS framework",
+		"category": "Component Libraries"
 	},
 	{
-		"name": "UIKit",
+		"name": "[UIKit](https://getuikit.com/)",
 		"link": "https://discord.gg/NEt4Pv7",
-		"description": "A lightweight and modular front-end framework for developing fast and powerful web interfaces."
+		"description": "A lightweight and modular front-end framework for developing fast and powerful web interfaces.",
+		"category": "Component Libraries"
 	},
 	{
-		"name": "VueMaterial",
+		"name": "[VueMaterial](https://vuematerial.io/)",
 		"link": "https://discord.gg/RmJ93Sp",
-		"description": "Material Design for Vue.js"
+		"description": "Material Design for Vue.js",
+		"category": "Component Libraries"
 	},
 	{
-		"name": "Vuetify",
+		"name": "[Vuetify](https://vuetifyjs.com/)",
 		"link": "https://discord.gg/m9jP5vy",
-		"description": "Material Design component framework for Vue.js."
+		"description": "Material Design component framework for Vue.js.",
+		"category": "Component Libraries"
 	},
 	{
-		"name": "ESLint",
+		"name": "[ESLint](https://eslint.org/)",
 		"link": "https://discord.gg/8szcydm",
-		"description": "A pluggable and configurable linter tool for identifying and reporting on patterns in JavaScript"
+		"description": "A pluggable and configurable linter tool for identifying and reporting on patterns in JavaScript",
+		"category": "Tooling"
 	},
 	{
-		"name": "Hasura",
+		"name": "[Hasura](https://hasura.io/)",
 		"link": "https://discord.gg/hasura",
-		"description": "An open source engine that connects to your databases & microservices and auto-generates a production-ready GraphQL backend."
+		"description": "An open source engine that connects to your databases & microservices and auto-generates a production-ready GraphQL backend.",
+		"category": "Tooling"
 	},
 	{
-		"name": "MirageJS",
+		"name": "[MirageJS](https://miragejs.com/)",
 		"link": "https://discord.gg/jC3xwCF",
-		"description": "Build, test and demo your JavaScript application without an API"
+		"description": "Build, test and demo your JavaScript application without an API",
+		"category": "Tooling"
 	},
 	{
-		"name": "Rome",
+		"name": "[neverinstall](https://neverinstall.com)",
+		"link": "https://discord.gg/vRXyJYyhNz",
+		"description": "An uninterrupted development experience and improved accessibility, allowing you to code faster, better and on-the-go on your favourite IDEs",
+		"category": "Tooling"
+	},
+	{
+		"name": "[Rome](https://romejs.dev/)",
 		"link": "https://discord.gg/BsAUjhJ",
-		"description": "An experimental JavaScript toolchain"
+		"description": "An experimental JavaScript toolchain",
+		"category": "Tooling"
 	},
 	{
-		"name": "Sentry",
+		"name": "[Sentry](https://sentry.io/)",
 		"link": "https://discord.gg/grP9TJv",
-		"description": "Application Monitoring and Error Tracking Software"
+		"description": "Application Monitoring and Error Tracking Software",
+		"category": "Tooling"
 	},
 	{
-		"name": "StandardJS",
+		"name": "[StandardJS](https://standardjs.com/)",
 		"link": "https://discord.gg/ZegqCBr",
-		"description": "JavaScript style guide, linter, and formatter"
+		"description": "JavaScript style guide, linter, and formatter",
+		"category": "Tooling"
 	},
 	{
-		"name": "Storybook",
+		"name": "[Storybook](https://storybook.js.org/)",
 		"link": "https://discord.gg/NzrwbJ5",
-		"description": "UI component explorer for frontend developers"
+		"description": "UI component explorer for frontend developers",
+		"category": "Tooling"
 	},
 	{
-		"name": "Testing Library",
+		"name": "[Testing Library](http://testing-library.com/)",
 		"link": "https://discord.com/invite/c6JN9fM",
-		"description": "Simple and complete testing utilities that encourage good testing practices"
+		"description": "Simple and complete testing utilities that encourage good testing practices",
+		"category": "Tooling"
 	},
 	{
-		"name": "Discord Artificial Intelligence",
+		"name": "[Discord Artificial Intelligence](https://discordnetwork.com/)",
 		"link": "https://discord.sg/ai",
-		"description": "an online community for those interested in engaging in imaginative and intelligent discussion of artificial intelligence, machine learning, and natural language processing."
+		"description": "A community for those interested in artificial intelligence, machine learning, NLP, general mathematics and computer science.",
+		"category": "Machine Learning"
 	},
 	{
-		"name": "r/LearnMachineLearning",
+		"name": "[r/LearnMachineLearning](https://www.reddit.com/r/learnmachinelearning)",
 		"link": "https://discord.gg/5kTPkb",
-		"description": "A beginner-friendly sub-reddit for learning machine learning."
+		"description": "A beginner-friendly sub-reddit for learning machine learning.",
+		"category": "Machine Learning"
 	},
 	{
-		"name": "FrontendLove Amsterdam",
+		"name": "[FrontendLove Amsterdam](https://www.frontenddeveloperlove.com/)",
 		"link": "https://discord.gg/U2tzFPE",
-		"description": "The Largest and Most Epic JavaScript Conferences."
+		"description": "The Largest and Most Epic JavaScript Conferences.",
+		"category": "Conferences"
 	},
 	{
-		"name": "React Europe",
+		"name": "[React Europe](https://www.react-europe.org/)",
 		"link": "https://discord.gg/ySbfQzm",
-		"description": "The Original React Conference in Europe"
+		"description": "The Original React Conference in Europe",
+		"category": "Conferences"
 	},
 	{
-		"name": "Svelte Society Day",
+		"name": "[Svelte Society Day](https://sveltesociety.dev/)",
 		"link": "https://discord.gg/n7PEQ5T",
-		"description": "An online full-day conference on all things Svelte"
+		"description": "An online full-day conference on all things Svelte",
+		"category": "Conferences"
 	},
 	{
-		"name": "Tauri",
+		"name": "[Tauri](https://tauri.studio/)",
 		"link": "https://discord.gg/TDm7DqJ",
-		"description": "Framework agnostic toolchain for building highly secure native apps"
+		"description": "Framework agnostic toolchain for building highly secure native apps",
+		"category": "Other"
 	}
 ]
