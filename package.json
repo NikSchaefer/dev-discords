@@ -18,7 +18,7 @@
 		"clean": "npx prettier --write ."
 	},
 	"dependencies": {
-		"class-variance-authority": "^0.6.1",
+		"class-variance-authority": "^0.7.0",
 		"clsx": "^1.2.1",
 		"cmdk": "^0.2.0",
 		"framer-motion": "^10.16.0",
