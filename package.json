@@ -21,7 +21,7 @@
 		"class-variance-authority": "^0.7.0",
 		"clsx": "^2.1.0",
 		"cmdk": "^0.2.0",
-		"framer-motion": "^10.16.0",
+		"framer-motion": "^10.16.16",
 		"lucide-react": "^0.302.0",
 		"next": "13.4.12",
 		"next-seo": "^6.0.0",
