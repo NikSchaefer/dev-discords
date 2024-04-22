@@ -20,7 +20,7 @@
 	"dependencies": {
 		"class-variance-authority": "^0.7.0",
 		"clsx": "^2.1.0",
-		"cmdk": "^0.2.0",
+		"cmdk": "^1.0.0",
 		"framer-motion": "^11.0.25",
 		"lucide-react": "^0.309.0",
 		"next": "13.4.12",
