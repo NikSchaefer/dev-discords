@@ -23,7 +23,7 @@
 		"cmdk": "^1.0.0",
 		"framer-motion": "^11.3.22",
 		"lucide-react": "^0.309.0",
-		"next": "13.4.12",
+		"next": "14.2.10",
 		"next-seo": "^6.0.0",
 		"next-sitemap": "^4.2.3",
 		"react": "18.2.0",
