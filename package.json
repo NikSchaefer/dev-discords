@@ -33,7 +33,7 @@
 		"typescript": "^5.6.3"
 	},
 	"devDependencies": {
-		"@babel/preset-typescript": "^7.23.3",
+		"@babel/preset-typescript": "^7.26.0",
 		"@types/node": "^22.9.0",
 		"@types/react": "^18.2.79",
 		"autoprefixer": "^10.4.16",
