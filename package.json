@@ -34,7 +34,7 @@
 	},
 	"devDependencies": {
 		"@babel/preset-typescript": "^7.23.3",
-		"@types/node": "^22.9.0",
+		"@types/node": "^22.10.2",
 		"@types/react": "^18.2.79",
 		"autoprefixer": "^10.4.16",
 		"eslint": "^9.1.0",
