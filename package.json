@@ -27,7 +27,7 @@
 		"next-seo": "^7.0.1",
 		"next-sitemap": "^4.2.3",
 		"react": "19.2.3",
-		"react-dom": "19.2.0",
+		"react-dom": "19.2.3",
 		"tailwind-merge": "^3.4.0",
 		"tailwindcss-animate": "^1.0.6",
 		"typescript": "^5.9.3"
