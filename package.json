@@ -39,6 +39,6 @@
 		"autoprefixer": "^10.4.23",
 		"eslint": "^9.39.2",
 		"eslint-config-galex": "^4.4.2",
-		"prettier": "^3.8.0"
+		"prettier": "^3.8.1"
 	}
 }
